@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sumiiii05/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
@@ -87,4 +88,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sumiiii05/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
