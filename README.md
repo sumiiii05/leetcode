@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sumiiii05/leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
