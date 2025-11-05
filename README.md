@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sumiiii05/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/sumiiii05/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/sumiiii05/leetcode/tree/master/0147-insertion-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sumiiii05/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/sumiiii05/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
