@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
