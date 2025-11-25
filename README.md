@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sumiiii05/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumiiii05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumiiii05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sumiiii05/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/sumiiii05/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
+| [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Recursion
