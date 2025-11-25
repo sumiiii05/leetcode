@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sumiiii05/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/sumiiii05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sumiiii05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sumiiii05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
