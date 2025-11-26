@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sumiiii05/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sumiiii05/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumiiii05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumiiii05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
