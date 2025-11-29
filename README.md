@@ -106,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/sumiiii05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/sumiiii05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Math
@@ -188,5 +190,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
