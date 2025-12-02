@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sumiiii05/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sumiiii05/leetcode/tree/master/0724-find-pivot-index) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumiiii05/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sumiiii05/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sumiiii05/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -224,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
