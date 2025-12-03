@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sumiiii05/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/sumiiii05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sumiiii05/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumiiii05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sumiiii05/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sumiiii05/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sumiiii05/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
 | ------- |
