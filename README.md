@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sumiiii05/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sumiiii05/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumiiii05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sumiiii05/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumiiii05/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sumiiii05/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumiiii05/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Matrix
 |  |
 | ------- |
