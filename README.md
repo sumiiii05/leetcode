@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sumiiii05/leetcode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sumiiii05/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sumiiii05/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sumiiii05/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/sumiiii05/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumiiii05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumiiii05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/sumiiii05/leetcode/tree/master/0739-daily-temperatures) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
