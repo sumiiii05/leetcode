@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sumiiii05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/sumiiii05/leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/sumiiii05/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sumiiii05/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/sumiiii05/leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/sumiiii05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/sumiiii05/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
