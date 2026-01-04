@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/sumiiii05/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumiiii05/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/sumiiii05/leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/sumiiii05/leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
 | [2542-maximum-subsequence-score](https://github.com/sumiiii05/leetcode/tree/master/2542-maximum-subsequence-score) |
