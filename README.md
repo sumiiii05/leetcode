@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sumiiii05/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sumiiii05/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sumiiii05/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sumiiii05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumiiii05/leetcode/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/sumiiii05/leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sumiiii05/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
