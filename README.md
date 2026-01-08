@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/sumiiii05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumiiii05/leetcode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sumiiii05/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sumiiii05/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
