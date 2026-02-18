@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sumiiii05/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sumiiii05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumiiii05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/sumiiii05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sumiiii05/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sumiiii05/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sumiiii05/leetcode/tree/master/0162-find-peak-element) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sumiiii05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumiiii05/leetcode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sumiiii05/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
