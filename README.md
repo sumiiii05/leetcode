@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sumiiii05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sumiiii05/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sumiiii05/leetcode/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sumiiii05/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sumiiii05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumiiii05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
