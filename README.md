@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sumiiii05/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sumiiii05/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumiiii05/leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/sumiiii05/leetcode/tree/master/0147-insertion-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/sumiiii05/leetcode/tree/master/0725-split-linked-list-in-parts) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sumiiii05/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sumiiii05/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sumiiii05/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sumiiii05/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumiiii05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/sumiiii05/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sumiiii05/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sumiiii05/leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/sumiiii05/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
