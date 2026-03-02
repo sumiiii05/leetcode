@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumiiii05/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumiiii05/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sumiiii05/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumiiii05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sumiiii05/leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/sumiiii05/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sumiiii05/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/sumiiii05/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sumiiii05/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sumiiii05/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/sumiiii05/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/sumiiii05/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sumiiii05/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/sumiiii05/leetcode/tree/master/0994-rotting-oranges) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumiiii05/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
