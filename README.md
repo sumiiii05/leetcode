@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sumiiii05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sumiiii05/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sumiiii05/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sumiiii05/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0838-design-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0838-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/sumiiii05/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sumiiii05/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/sumiiii05/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sumiiii05/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sumiiii05/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0994-rotting-oranges](https://github.com/sumiiii05/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -358,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sumiiii05/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union Find
