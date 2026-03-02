@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumiiii05/leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/sumiiii05/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/sumiiii05/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sumiiii05/leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumiiii05/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumiiii05/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sumiiii05/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
