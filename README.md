@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sumiiii05/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/sumiiii05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
+| [0556-next-greater-element-iii](https://github.com/sumiiii05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumiiii05/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/sumiiii05/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sumiiii05/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/sumiiii05/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/sumiiii05/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sumiiii05/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
