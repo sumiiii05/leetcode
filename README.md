@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sumiiii05/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sumiiii05/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/sumiiii05/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sumiiii05/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sumiiii05/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumiiii05/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sumiiii05/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sumiiii05/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sumiiii05/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sumiiii05/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
