@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/sumiiii05/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sumiiii05/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumiiii05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sumiiii05/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sumiiii05/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumiiii05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2542-maximum-subsequence-score](https://github.com/sumiiii05/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
