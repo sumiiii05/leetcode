@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sumiiii05/leetcode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/sumiiii05/leetcode/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/sumiiii05/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0611-valid-triangle-number](https://github.com/sumiiii05/leetcode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sumiiii05/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sumiiii05/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sumiiii05/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumiiii05/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sumiiii05/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sumiiii05/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sumiiii05/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sumiiii05/leetcode/tree/master/0735-asteroid-collision) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumiiii05/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/sumiiii05/leetcode/tree/master/0611-valid-triangle-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sumiiii05/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sumiiii05/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/sumiiii05/leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumiiii05/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sumiiii05/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/sumiiii05/leetcode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/sumiiii05/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumiiii05/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sumiiii05/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/sumiiii05/leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sumiiii05/leetcode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/sumiiii05/leetcode/tree/master/0649-dota2-senate) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sumiiii05/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2542-maximum-subsequence-score](https://github.com/sumiiii05/leetcode/tree/master/2542-maximum-subsequence-score) |
