@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumiiii05/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sumiiii05/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumiiii05/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sumiiii05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/sumiiii05/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumiiii05/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sumiiii05/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sumiiii05/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/sumiiii05/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/sumiiii05/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/sumiiii05/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/sumiiii05/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sumiiii05/leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumiiii05/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -453,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sumiiii05/leetcode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/sumiiii05/leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
