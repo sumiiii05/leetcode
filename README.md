@@ -465,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sumiiii05/leetcode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/sumiiii05/leetcode/tree/master/0131-palindrome-partitioning) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sumiiii05/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
